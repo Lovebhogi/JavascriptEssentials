@@ -19,7 +19,7 @@ function checkCountValue() {
         alert("your instagram post gain 20 followers");
     }
 }
-function increaseCount() {
+function increasedCount() {
     count++;
     displayCount();
     checkCountValue();
