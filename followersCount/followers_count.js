@@ -7,7 +7,7 @@ function displayCount() {
     document.getElementById('countDisplay').innerHTML=count;
 
 }
-functionincreaseCount() {
+function increasedCount() {
     count++;
     displayCount();
 }
